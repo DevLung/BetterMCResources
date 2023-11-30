@@ -1,6 +1,6 @@
 # Better Minecraft Resource Collection
 
-## A Collection of Quality-Of-Life Resources by DerLungYT
+## A Collection of Quality-Of-Life Resources compiled by DerLung
 
 ### Infos und Credits
 
