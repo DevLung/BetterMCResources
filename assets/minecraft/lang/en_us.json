@@ -1,0 +1,17 @@
+{
+  "container.hopper": "§fItem Hopper",
+  "container.crafting": "§fCrafting",
+  "container.dispenser": "§fDispenser",
+  "container.dropper": "§fDropper",
+  "container.furnace": "§fFurnace",
+  "container.enchant": "§fEnchant",
+  "container.smoker": "§fSmoker",
+  "container.blast_furnace": "§fBlast Furnace",
+  "container.repair": "§fRepair & Name",
+  "container.brewing": "\u00a7f\ueff1                                      \u00a7f\ueff2",
+  "container.loom": "§fLoom",
+  "container.grindstone_title": "§fRepair & Disenchant",
+  "container.cartography_table": "§fCartography Table",
+  "container.stonecutter": "§fStonecutter",
+  "container.upgrade": "§fUpgrade Gear"
+}
